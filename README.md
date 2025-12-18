@@ -4,7 +4,7 @@ This organization contains multiple projects related to computer vision, image p
 
 ## Projects
 
-- [Desert lant Analysis](https://github.com/FranBe/desert-plant-analysis)
+- [Desert plants analysis](https://github.com/FranBe/desert-plant-analysis)
 
 ## Technologies
 - Python
